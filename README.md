@@ -1,6 +1,5 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
 I'm **Mariyam**, a Mathematics graduate and current MS Data Science student from Pakistan.  
 I work on Machine Learning, Deep Learning, LLM-based systems, and data-driven projects.
 
