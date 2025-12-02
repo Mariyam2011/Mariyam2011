@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**Mariyam2011/Mariyam2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mariyam**, a Mathematics graduate and current MS Data Science student from Pakistan.  
+I work on Machine Learning, Deep Learning, LLM-based systems, and data-driven projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Current Focus**
+- Research in Machine Learning & AI (LLMs, Vision + Language, Data Pipelines)
+- Building real-world projects (AI agents, LLM tools, ML applications)
+- Strengthening Python, ML Engineering, and Research skills
+
+✨ **Interests**
+- AI Research  
+- Deep Learning  
+- Human–AI Interaction  
+- Teaching & simplifying complex ideas
+
+📫 **How to reach me:**  
+- Email: Mariyamsohail2011@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mariyam-sohail-998204220/
